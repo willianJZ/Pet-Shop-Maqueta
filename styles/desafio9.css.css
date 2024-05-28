@@ -1,0 +1,5 @@
+/*Agrega los selectores aquí */
+div ~ p{
+  color: coral;
+}
+/*Agrega los selectores aquí */
