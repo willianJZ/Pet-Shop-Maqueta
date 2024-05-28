@@ -1,0 +1,17 @@
+/*Agrega los selectores aquí */
+a[href="https://platzi.com"]{
+  background-color: green;
+}
+/*Agrega los selectores aquí */
+
+
+/* Ignora esto, por ahora */
+* {
+  font-size: 1.2rem;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+a {
+  display: block;
+}
