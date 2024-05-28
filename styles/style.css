@@ -1,0 +1,30 @@
+div{
+    color: blue;
+  }
+  /*Agrega el selector aquí */
+  div{
+    font-size: 2rem;
+  }
+
+  #eliminar{
+    background-color: red;
+  }
+
+  a[href="https://platzi.com"]{
+    background-color: green;
+  }
+
+  *{
+    background-color: gray;
+  }
+
+  .container > p{
+    color: blue;
+  }
+  div + p{
+    color: blueviolet;
+  }  
+
+  div ~ p{
+    color: coral;
+  }
