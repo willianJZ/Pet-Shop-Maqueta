@@ -1,0 +1,24 @@
+.encabezado-1{
+    border-bottom: 2px solid blue;
+}
+
+.encabezado-2{
+    border: 2px solid gray;
+}
+
+.lista-datos{
+    border-width: 4px ;
+    border-style: dotted;
+    border-color: red;
+    
+}
+
+.encabezado-3{
+    border: 2px solid gray;
+}
+
+.contenido-libro{
+    border: 2px;
+    border-style: dashed;
+    border-color: green;
+}
